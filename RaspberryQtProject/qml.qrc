@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Helvetica.ttf</file>
+        <file>images/HELVETICA-SEMIBOLD.ttf</file>
+        <file>ScanPage.qml</file>
+        <file>DataPage.qml</file>
+        <file>images/OpenSans-Light.ttf</file>
+        <file>images/droplet.png</file>
+        <file>images/temperature.png</file>
+        <file>images/bluetooth.png</file>
+        <file>ItemParam.qml</file>
+    </qresource>
+</RCC>
